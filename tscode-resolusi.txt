@@ -3,10 +3,9 @@ TSCode Resolusi
 2. Konsisten belajar web dev.
 3. Perhari ada yang dipelajari.
 4. Tuntaskan pelajaran git dan github dari WPU.
-5. Buat home page rumah cintara lebih cantik.
-6. Selesaikan backend untuk rumah cintara.
-7. Selesaikan MVC native superku.
-8. Publis rumah cintara.
-9. Hubungkan Payment Gatway. 
-10. Jangan lupa sedekah dan bayar zakat.
-11. Berkolaborasi dengan lebih banyak expert.
+5. Selesaikan backend untuk rumah cintara.
+6. Selesaikan MVC native superku.
+7. Publis rumah cintara.
+8. Hubungkan Payment Gatway. 
+9. Jangan lupa sedekah dan bayar zakat.
+10. Berkolaborasi dengan lebih banyak expert.
