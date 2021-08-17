@@ -1,0 +1,13 @@
+TSCode Rencana Pojok Berbagi
+
+1. Modeling Database.
+2. Siapkan MVCnya.
+3. Siapkan Backend Sample (admin).
+3. Terapkan MVC login (admin).
+4. Siapkan Backend Sample (pemohon).
+5. Terapkan MVC login (pemohon).
+6. Siapkan MVC untuk program, kategori.
+7. Siapkan MVC untuk daftar (admin, pemohon).
+8. Siapkan MVC untuk bantuan.
+9. Siapkan MVC untuk mengelola/menghubungkan program & bantuan.
+10. Siapkan MVC untuk mengelola pegawai.
