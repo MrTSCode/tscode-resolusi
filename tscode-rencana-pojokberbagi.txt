@@ -11,3 +11,5 @@ TSCode Rencana Pojok Berbagi
 8. Siapkan MVC untuk bantuan.
 9. Siapkan MVC untuk mengelola/menghubungkan program & bantuan.
 10. Siapkan MVC untuk mengelola pegawai.
+11. Siapkan MVC untuk kelola profile
+    - Edit foto
