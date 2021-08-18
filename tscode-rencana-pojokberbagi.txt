@@ -6,8 +6,10 @@ TSCode Rencana Pojok Berbagi
 3. Terapkan MVC login (admin).
 4. Siapkan Backend Sample (pemohon).
 5. Terapkan MVC login (pemohon).
+   - Auth Google
 6. Siapkan MVC untuk program, kategori.
 7. Siapkan MVC untuk daftar (admin, pemohon).
 8. Siapkan MVC untuk bantuan.
 9. Siapkan MVC untuk mengelola/menghubungkan program & bantuan.
 10. Siapkan MVC untuk mengelola pegawai.
+11. Siapkan Frontend cantik.
